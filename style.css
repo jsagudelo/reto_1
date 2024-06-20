@@ -1,0 +1,40 @@
+body
+{
+   background-color: lightgray;
+}
+
+
+
+#otraforma{
+    font-size: 50px;
+}
+/*Estilos Titulos*/
+
+
+.titulo{
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    background-color: gray;
+    margin: 40px;
+}
+/*Fin Estilos Titulos**/
+
+
+/*****Estilos parrafos  ****/
+.span_red{
+    color: red;
+}
+.span_white{
+    color: white;
+}
+.span_aqua{
+    color: aqua;
+}
+p{
+    margin: 40px;
+}
+
